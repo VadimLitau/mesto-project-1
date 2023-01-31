@@ -1,12 +1,17 @@
-# Проект: Место
+**Имя**
 
-### Обзор
-* Четвертый проект. В нем начали осваивать JavaScript
-* [Ссылка на проект в GitPages](https://danielermal.github.io/mesto-project/)
-* Figma
-* Картинки
+"Яндекс Практикум - Mesto Russia ООП"
 
-**Figma**
+**Описание**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4?node-id=0%3A1)
+Первая совместная работа с сокурсником.
+Над этим проектом работа велась 1 месяца.
+Основная задача - переписать ранее сделанный проект используя ООП
 
+
+**Используемые технологии**
+
+Html, Css, Js, ООП
+
+**GitHub Pages**
+https://vadimlitau.github.io/mesto-project/
